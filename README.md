@@ -98,6 +98,7 @@
 
 **Author:**
 
+|                 |                   |
 |-----------------|-------------------|
 | Rodolfo Aramayo | raramayo@tamu.edu |
 
@@ -105,6 +106,7 @@
 
 **License:**
 
+|                                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------|
 | [All content produced in this site is licensed by: CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) |
 
