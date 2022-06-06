@@ -43,11 +43,8 @@
 | **Tue: 2021-10-12** | **Lecture02** | **Topic09: Introduction to [CYVERSE](https://cyverse.org/)**                                                    |                                                                                                    |
 |                     |               | **Topic10: [CYVERSE - Genome Annotation](https://youtu.be/jY5jQoglke8)**                                        | **SEQUENCE**                                                                                       |
 |                     |               |                                                                                                                 | [BRCA1 Region](https://drive.google.com/file/d/17dUp4I6nPT4oGk8BRG179onK4CGVkdIe/view?usp=sharing) |
-|                     |               |                                                                                                                 |                                                                                                    |
-
 ------------------------------------------------------------------------
-
-**Author:**
+## **Author:**
 
 |                 |                   |
 |-----------------|-------------------|
@@ -55,7 +52,7 @@
 
 ------------------------------------------------------------------------
 
-**License:**
+## **License:**
 
 |                                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------|
