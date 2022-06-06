@@ -1,5 +1,5 @@
 # **Bioinformatics (BIOL651)**
-
+# _**Fall 2021**_
 ## **Instructor:**
 
 |                  |                                                     |
