@@ -1,4 +1,4 @@
-# **Bioinformatics (BIOL651):** _**Fall 2021**_
+# _**Bioinformatics (BIOL651): Fall 2021**_
 
 ## **Instructor:**
 
