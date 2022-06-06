@@ -46,7 +46,7 @@
 ------------------------------------------------------------------------
 ## **Author:**
 
-### _[Rodolfo Aramayo](raramayo@tamu.edu)_
+### _Rodolfo Aramayo (raramayo@tamu.edu)_
 |                 |                   |
 |-----------------|-------------------|
 | Rodolfo Aramayo | raramayo@tamu.edu |
