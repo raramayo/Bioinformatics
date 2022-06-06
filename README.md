@@ -49,6 +49,7 @@
 
 **Author:**
 
+| Rodolfo Aramayo | raramayo@tamu.edu |
 |                 |                   |
 |-----------------|-------------------|
 | Rodolfo Aramayo | raramayo@tamu.edu |
