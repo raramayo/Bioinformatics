@@ -12,7 +12,6 @@
 |                  | Room 412A, Biological Sciences Building West (BSBW) |
 |                  | Texas A&M University                                |
 |                  | College Station, TX 77843-3258                      |
-|------------------|-----------------------------------------------------|
 |                  |                                                     |
 
 
