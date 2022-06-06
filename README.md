@@ -115,3 +115,13 @@
 </div>
 
 </div>
+
+<div id="postamble" class="status">
+
+Author: Rodolfo Aramayo
+
+Created: 2021-09-29 Wed 11:23
+
+[Validate](https://validator.w3.org/check?uri=referer)
+
+</div>
