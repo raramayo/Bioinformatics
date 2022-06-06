@@ -47,10 +47,10 @@
 
 ------------------------------------------------------------------------
 
-### **Author:** _Rodolfo Aramayo (raramayo@tamu.edu)_
++ **Author:** _Rodolfo Aramayo (raramayo@tamu.edu)_
 
 ------------------------------------------------------------------------
 
-### **License:** _[All content produced in this site is licensed by: CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)_
++ **License:** _[All content produced in this site is licensed by: CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)_
 
 ------------------------------------------------------------------------
