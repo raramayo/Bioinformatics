@@ -21,6 +21,7 @@
 |---------------------------------------------------------------------|
 | **BIOL650: [Genomics](./BIOL650_2022_S01A_Flier.pages.pdf)**        |
 | **BIOL647: [Digital Biology](./BIOL647_2022_S01B_Flier.pages.pdf)** |
+|                                                                     |
 
 ## **To Do's:**
 
@@ -46,10 +47,10 @@
 
 ------------------------------------------------------------------------
 
-## **Author:** _Rodolfo Aramayo (raramayo@tamu.edu)_
+### **Author:** _Rodolfo Aramayo (raramayo@tamu.edu)_
 
 ------------------------------------------------------------------------
 
-## **License:** _[All content produced in this site is licensed by: CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)_
+### **License:** _[All content produced in this site is licensed by: CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)_
 
 ------------------------------------------------------------------------
