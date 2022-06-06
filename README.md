@@ -1,6 +1,6 @@
 <div id="content">
 
-# BIOL651
+# Bioinformatics (BIOL651)
 
 <div id="table-of-contents">
 
@@ -9,10 +9,10 @@
 <div id="text-table-of-contents">
 
 -   [1. **Bioinformatics (BIOL651)**](#orged362a6)
-    -   [1.1. **Instructor:**](#orgf69eef6)
-    -   [1.2. **Related Courses:**](#orgf2386d5)
-    -   [1.3. **To Do's:**](#org151031a)
-    -   [1.4. **Schedule:**](#org22e02b7)
+    -   [1.1. **Instructor**](#orgf69eef6)
+    -   [1.2. **Related Courses**](#orgf2386d5)
+    -   [1.3. **To Do's**](#org151031a)
+    -   [1.4. **Schedule**](#org22e02b7)
 
 </div>
 
@@ -32,7 +32,6 @@
 
 <div id="text-1-1" class="outline-text-3">
 
-|                  |                                                     |
 |------------------|-----------------------------------------------------|
 | Name:            | Dr. Rodolfo Aramayo, PhD                            |
 |                  |                                                     |
@@ -53,7 +52,6 @@
 
 <div id="text-1-2" class="outline-text-3">
 
-|                                                                     |
 |---------------------------------------------------------------------|
 | **BIOL650: [Genomics](./BIOL650_2022_S01A_Flier.pages.pdf)**        |
 | **BIOL647: [Digital Biology](./BIOL647_2022_S01B_Flier.pages.pdf)** |
@@ -100,7 +98,6 @@
 
 **Author:**
 
-|                 |                   |
 |-----------------|-------------------|
 | Rodolfo Aramayo | raramayo@tamu.edu |
 
@@ -108,24 +105,7 @@
 
 **License:**
 
-|                                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------|
 | [All content produced in this site is licensed by: CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) |
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="postamble" class="status">
-
-Author: Rodolfo Aramayo
-
-Created: 2021-09-29 Wed 11:23
-
-[Validate](https://validator.w3.org/check?uri=referer)
 
 </div>
