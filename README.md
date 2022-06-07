@@ -1,5 +1,5 @@
 # _**Bioinformatics (BIOL651): Fall 2021**_
-
+------------------------------------------------------------------------
 ## **Instructor:**
 
 |                  |                                                     |
@@ -13,8 +13,15 @@
 |                  | Texas A&M University                                |
 |                  | College Station, TX 77843-3258                      |
 |                  |                                                     |
+------------------------------------------------------------------------
+## Motivation
 
+```
+This repository contains teaching materials used to teach a section of _Bioinformatics: (BIOL651)_ in the _Fall 2021_. Teaching of this section was heavily based on
+[ENSEMBL](https://www.ensembl.org/index.html), and [ENSEMBL Tutorials and Examples](http://www.ensembl.org/info/website/tutorials/index.html).
 
+```
+------------------------------------------------------------------------
 ## **Related Courses:**
 
 |                                                                     |
@@ -22,11 +29,11 @@
 | **BIOL650: [Genomics](./BIOL650_2022_S01A_Flier.pages.pdf)**        |
 | **BIOL647: [Digital Biology](./BIOL647_2022_S01B_Flier.pages.pdf)** |
 |                                                                     |
-
+------------------------------------------------------------------------
 ## **To Do's:**
 
 -   **Open an Account with: [CYVERSE](https://user.cyverse.org)**
-
+------------------------------------------------------------------------
 ## **Schedule:**
 
 | **DATE**            | **LECTURE**   | **TOPIC(s)**                                                                                                    | **VIDEO(S)**                                                                                       |
