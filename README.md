@@ -1,4 +1,4 @@
-**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6620727.svg)](https://doi.org/10.5281/zenodo.6620727)**
+**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6618284.svg)](https://doi.org/10.5281/zenodo.6618284)**
 # _**Bioinformatics (BIOL651): Fall 2021**_
 
 ------------------------------------------------------------------------
